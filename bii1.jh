@@ -1,0 +1,13 @@
+entity BII {
+	name String,
+    type String,
+    biiId String,
+    detectionTimestamp Long,
+    sourceId String,
+    detectionSystemName String,
+    detectedValue String,
+    detectionContext String,
+    etc String,
+    etcetc String
+}
+
