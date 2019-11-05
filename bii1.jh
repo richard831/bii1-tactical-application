@@ -1,0 +1,12 @@
+entity BII {
+	name String,
+    type String,
+    provenance Provenance,
+    etc String
+}
+
+entity Provenance {
+	sourceId String,
+    sourceSystem String,
+    etc String
+}
