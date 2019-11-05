@@ -1,0 +1,56 @@
+{
+    "name": "BII",
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "type",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "biiId",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "detectionTimestamp",
+            "fieldType": "Long"
+        },
+        {
+            "fieldName": "sourceId",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "detectionSystemName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "detectedValue",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "detectionContext",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "etc",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "etcetc",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20191105114119",
+    "entityTableName": "bii",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "clientRootFolder": "",
+    "applications": "*"
+}
